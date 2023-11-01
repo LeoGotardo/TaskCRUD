@@ -1,4 +1,4 @@
-**Simple Process Registry**
+#**Simple Process Registry**
 
 This is a simple process registry application developed in Python using the Tkinter GUI library and MongoDB. It allows users to register new processes, view a list of all registered processes, and delete processes.
 
